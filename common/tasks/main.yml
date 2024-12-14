@@ -1,6 +1,0 @@
----
-# tasks file for common
-
-- name: set timezone
-  timezone:
-    name: UTC
